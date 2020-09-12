@@ -8,4 +8,4 @@ n = 0
   end
 end
 
-my_each(list) {|i| puts "So I think #{i} is a piece of shit"}
+my_each(collection) {|i| puts "So I think #{i} is a piece of shit"}
