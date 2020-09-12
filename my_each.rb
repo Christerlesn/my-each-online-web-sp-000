@@ -7,5 +7,3 @@ n = 0
     n = n + 1
   end
 end
-
-my_each(collection) {|i| puts "So I think #{n} is a piece of shit"}
